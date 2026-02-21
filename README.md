@@ -42,10 +42,10 @@ hangman-game/
 
 ## 🚀 Installation & Usage
 
-### Prerequisites
+## Prerequisites
 - Python 3.x installed on your system
 
-### Steps to Run
+## Steps to Run
 
 1. Clone the repository
    ```bash
@@ -56,7 +56,7 @@ hangman-game/
    python hangman_game.py
 
 
-### 🎮 Gameplay Example
+## 🎮 Gameplay Example
 <br>
 Hey! Welcome to Hangman Game!<br>
 Find the Secret Word.<br>
@@ -71,7 +71,7 @@ Wrong guesses: 1/6<br>
 Word: _ _ _ _ _ _<br>
 Wrong letters: e<br>
 
-### 📊 Code Structure
+## 📊 Code Structure
 hangman_game(): Main game function containing all game logic
 
 Word list: Predefined collection of 5 words
@@ -80,7 +80,7 @@ Game loop: Manages turns, guesses, and win/loss conditions
 
 Input validation: Ensures valid user input
 
-### 🔍 Key Learning Concepts
+## 🔍 Key Learning Concepts
 Working with Python's random module
 
 String and list manipulation
@@ -91,7 +91,7 @@ User input validation
 
 Game logic implementation
 
-### 📝 Future Enhancements
+## 📝 Future Enhancements
 Add difficulty levels (change word length and attempt limits)
 
 Include a larger word database
@@ -102,10 +102,10 @@ Implement a scoring system
 
 Add option to play multiple rounds
 
-### 🤝 Contributing
+## 🤝 Contributing
 This project was completed as part of my internship tasks. While it's not open for direct contributions, feel free to fork and customize it for your own learning!
 
-### 📬 Contact
+## 📬 Contact
 Author: Md. Minhazul Mowla
 
 Internship: CodeAlpha Python Development
@@ -114,7 +114,7 @@ Project Completion: 5 February 2026
 
 LinkedIn Post: https://www.linkedin.com/posts/md-minhazul-mowla_codealpha-internship-remoteintern-activity-7422482525371080705-WP4u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMykdcBnyGS_JGi_AlJEpxA2oo8BqbrhJw
 
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 CodeAlpha for providing this internship opportunity
 
 Python community for excellent documentation and resources
